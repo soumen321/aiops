@@ -1,10 +1,13 @@
 langchain
 python-dotenv
-langchain_community
+langchain-community
 pypdf
 bs4
 arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
-requests
+langchain-openai
+chromadb
+sentence-transformers
+langchain-huggingface

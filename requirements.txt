@@ -14,3 +14,10 @@ langchain-huggingface
 faiss-cpu
 langchain_chroma
 beautifulsoup4
+streamlit
+langchain-groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
